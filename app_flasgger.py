@@ -1,5 +1,5 @@
 #!/usr/bin/env python3.6
-__author__ = 'Anjul Rajensdra Sharma'
+__author__ = 'Anjul Rajendra Sharma'
 
 from flask import Flask, request
 import pickle
@@ -143,7 +143,7 @@ if __name__ == '__main__':
     r'''
     # for testing
     # start run flasgger_app.py
-    # and check http://0.0.0.0:8000/apidocs/'''
+    # and check http://127.0.0.1:8000/apidocs/'''
 
     PORT = 8000
     IP = '127.0.0.1'
